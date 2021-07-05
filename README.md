@@ -1,5 +1,10 @@
 MinIO FileService 를 이용한 파일 관리
 ---
+## Spec
+- SpringBoot 2.5.2
+- Gradle 6.8.3
+- MinIO 8.0.3
+
 
 ### 1. build.gradle 에 Dependency 추가
 - MinIO Client API 구현된 jar 파일을 import (/libs/fileservice-0.3.0-SNAPSHOT.jar)

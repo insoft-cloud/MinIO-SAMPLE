@@ -1,0 +1,11 @@
+server:
+  port: 7777
+
+minio:
+  endPoint: http://172.30.0.37:19001
+  accessKey: test
+  secretKey: xptmxm1!
+  bucketName: test-bucket
+logging:
+  level:
+    root: info
